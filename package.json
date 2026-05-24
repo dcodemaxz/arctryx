@@ -1,0 +1,60 @@
+{
+  "name": "arctryx",
+  "version": "1.10.4",
+  "description": "Simple ToolKit = Spam, Tracking, Dooxing & etc",
+  "keywords": [
+    "tool",
+    "tools",
+    "toolkit",
+    "spam",
+    "tracking",
+    "doxing",
+    "otp",
+    "gmail",
+    "email",
+    "ngl",
+    "pairing",
+    "banned",
+    "ban",
+    "baileys",
+    "nodejs",
+    "javascript"
+  ],
+  "main": "start",
+  "scripts": {
+    "start": "node start",
+    "test": "bash -c \"printf 'Press \\033[32mENTER\\033[0m to delete modules!...'; read; rm -rf node_modules package-lock.json\""
+  },
+  "homepage": "https://github.com/dcodemaxz/arctryx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcodemaxz/arctryx.git"
+  },
+  "author": {
+    "name": "dcodemaxz",
+    "url": "https://linktr.ee/dcodemaxz"
+  },
+  "license": "LICENSE.md",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.13.5",
+    "baileys": "github:dcodemaxz/vikaru-baileys",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^5.2.1",
+    "figlet": "^1.9.4",
+    "inquirer": "^12.9.6",
+    "jimp": "^0.22.10",
+    "nodemailer": "^7.0.10",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pino": "^7.0.5",
+    "terminal-image": "^1.2.1",
+    "ua-parser-js": "^2.0.9"
+  },
+  "private": true
+}

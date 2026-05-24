@@ -1,0 +1,7 @@
+ID - Indonesian
+
+accounts.json adalah database external untuk menambah jumlah / total maximal akun yang sudah digunakan di data internal tool, jadi jika kamu menambahkan email dan password kedalam data .json tersebut ia akan menjadikan akun itu sebagai sender tambahan ketika semua akun telah digunakan di data internal. Untuk mengambil password akun email kamu, kamu bisa kunjungi web berikut https://myaccount.google.com/apppasswords 
+
+EN - English
+
+accounts.json is an external database used to add the maximum number of accounts used in the tool's internal data. So, if you add an email address and password to the .json file, it will make that account an additional sender once all accounts have been used in the internal data. To retrieve your email account password, visit https://myaccount.google.com/apppasswords

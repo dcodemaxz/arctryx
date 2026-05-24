@@ -1,0 +1,7 @@
+_build/
+.session/
+Phishing/
+Download/
+node_modules/
+package-lock.json
+.lib/security/auth.json

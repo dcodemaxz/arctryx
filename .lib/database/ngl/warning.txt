@@ -1,0 +1,7 @@
+ID - Indonesian
+
+questions.json adalah database external untuk menerapkan pertanyaan random secara otomatis jika input (Enter question) yang kamu masukan kosong pada fitur Spam Ngl nya
+
+EN - English
+
+questions.json is an external database to automatically apply random questions if the input (Enter question) you entered is empty in the Spam Ngl feature.
